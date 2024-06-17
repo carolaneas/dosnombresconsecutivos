@@ -2,7 +2,7 @@
 int main
  int x;
  int y; //y és menor que x
- if (y == x+1) {
+ if (x == y + 1) {
   printf ("Los nombes son consecutivos");
 }
  else {
